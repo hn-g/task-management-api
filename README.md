@@ -23,9 +23,11 @@ CREATE TABLE tasks (
 
 To set up and run the project, follow these steps:
 
-1. **Extract the Zip File**
+1. **Clone the Repository**
 
-   Extract the contents of the provided zip file named `task-manager`.
+   ```bash
+   git clone https://github.com/yourusername/task-management-api.git
+   ```
 
 2. **Install Dependencies**
 
