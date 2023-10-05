@@ -32,7 +32,7 @@ To set up and run the project, follow these steps:
 2. **Install Dependencies**
 
    ```bash
-   cd task-manager
+   cd task-management-api
    npm install
    ```
 
